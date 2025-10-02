@@ -16,6 +16,8 @@ body {
   border-width: 10px;
   border-style: solid;
   transition: background-color 0.3s ease, transform 0.15s ease;
+  position: relative;
+  left: 6px;
 }
 
 .button:hover {
